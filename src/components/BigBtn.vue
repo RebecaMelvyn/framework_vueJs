@@ -13,10 +13,10 @@ export default {
 }
 </script>
 
-<style scoped lang="scss">
+<style>
 .big-btn {
   display: block;
-  padding: 7px 15px;
+  padding: 2%;
   color: white;
   background-color: #0e8ac4;
 }
